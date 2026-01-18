@@ -28,3 +28,20 @@ header{
     background-color: #f7cacd;
     color: #64113f;
 }
+
+main{
+    padding: 10px;
+}
+
+#lista-presentes {
+    margin-left: 40px;
+    margin-top: 10px;
+    list-style-type: disc;
+}
+
+footer{
+    background-color: #64113f;
+    color: #f7cacd;
+    text-align: center;
+    font-size: 13px;
+}
