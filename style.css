@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f7cacd;
+    color: #64113f;
+    font-family: "Mystery Quest", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+}
+
+header{
+    background-color: #64113f;
+}
+
+#menu li{
+    display: inline;
+}
+#menu a:link, a:visited{
+    text-decoration: none;
+    color: #f7cacd;
+    padding: 20px;
+}
+#menu a:hover, a:active{
+    background-color: #f7cacd;
+    color: #64113f;
+}
