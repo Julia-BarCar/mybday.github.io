@@ -31,8 +31,7 @@ header{
     display: inline;
 }
 
-#menu a:link, 
-#menu a:visited{
+#menu a:link, a:visited{
     text-decoration: none;
     color: #f7cacd;
     padding: 10px 20px;
@@ -40,8 +39,7 @@ header{
     transition: all 0.3s ease;
 }
 
-#menu a:hover, 
-#menu a:active{
+#menu a:hover, a:active{
     background-color: #f7cacd;
     color: #64113f;
 }
