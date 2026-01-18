@@ -39,6 +39,16 @@ main{
     list-style-type: disc;
 }
 
+#lista-geral {
+    margin-left: 40px;
+    margin-top: 10px;
+    list-style-type: circle;
+}
+
+#diferente{
+    font-size: 13px;
+}
+
 footer{
     background-color: #64113f;
     color: #f7cacd;
